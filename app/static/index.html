@@ -1,0 +1,26 @@
+<html>
+<head>
+<title>Flask Logger</title>
+<style type="text/css"></style>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+		<script type=text/javascript>
+			$(document).ready(function(){
+        var output = document.getElementById('output');
+        var xhr = new XMLHttpRequest();
+        xhr.open('GET', '{{ url_for('log_stream') }}', true);
+        xhr.send();
+        setInterval(function() {
+          output.textContent = xhr.responseText;
+        }, 10);
+      });
+		</script>
+</head>
+<body>
+	<h3 style="align-items: center;"> Logs: </h3>
+  <div> 
+  <pre id="output"></pre>
+</div>
+
+</body>
+
+</html> 

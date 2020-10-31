@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1c13f886-d779-4453-9650-824eae6cd4e3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1jd6PS24PJTwopF3zFDqTBmWCGN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1c13f886-d779-4453-9650-824eae6cd4e3" name="Default Changelist" comment="" />
+      <created>1604121597148</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604121597148</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="251" y="100" key="SettingsEditor" timestamp="1604121688004">
+      <screen x="44" y="23" width="1396" height="877" />
+    </state>
+    <state x="251" y="100" key="SettingsEditor/44.23.1396.877@44.23.1396.877" timestamp="1604121688004" />
+    <state x="435" y="294" key="com.intellij.ide.util.TipDialog" timestamp="1604121617786">
+      <screen x="44" y="23" width="1396" height="877" />
+    </state>
+    <state x="435" y="294" key="com.intellij.ide.util.TipDialog/44.23.1396.877@44.23.1396.877" timestamp="1604121617786" />
+  </component>
+</project>
